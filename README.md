@@ -22,3 +22,6 @@ a stage area do paranaue
 ##WORKING AREA
 agora estamos colocando apenas a area
 de working
+
+##HOW CONTRIBUTE
+PLEASE call me
