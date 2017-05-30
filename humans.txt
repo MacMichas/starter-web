@@ -2,8 +2,13 @@
 # The humans responsible & technology colophon
 
 # TEAM
+<<<<<<< HEAD
 	
     michas mclopes@gmail.com 
+=======
+
+    trabalhando aqui michas@gmail.com
+>>>>>>> simple-changes
 
 # THANKS
 
