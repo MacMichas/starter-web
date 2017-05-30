@@ -14,3 +14,11 @@ para fazer deploy e so dar push ze
 
 ## Testing 
 nao estamos abertos a testes
+
+##SATAGE AREA
+aqui estamos colocando
+a stage area do paranaue
+
+##WORKING AREA
+agora estamos colocando apenas a area
+de working
