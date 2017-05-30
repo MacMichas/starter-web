@@ -10,7 +10,7 @@ Sample website with plenty of files for demos
 e so mandar um zap
 
 ## Deployment
-para fazer deploy e so dar push ze
+para fazer deploy e 
 
 ## Testing 
 nao estamos abertos a testes
