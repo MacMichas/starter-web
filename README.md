@@ -11,3 +11,6 @@ e so mandar um zap
 
 ## Deployment
 para fazer deploy e so dar push ze
+
+## Testing 
+nao estamos abertos a testes
